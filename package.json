@@ -1,0 +1,19 @@
+{
+  "name": "atm-project-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.3",
+    "ascii-art": "^2.8.5",
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4"
+  }
+}
